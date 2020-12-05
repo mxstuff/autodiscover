@@ -1,2 +1,2 @@
-# autodiscover
-All about Outlook Autodiscover
+# Outlook Autodiscovery
+All about Outlook Autodiscovery
